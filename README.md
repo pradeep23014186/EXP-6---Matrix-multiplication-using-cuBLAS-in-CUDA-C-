@@ -46,8 +46,8 @@ Experiment with varying block sizes (e.g., 16, 32, 64 threads per block) and ana
 Compare the performance of the GPU-based matrix multiplication using cuBLAS with a standard CPU-based matrix multiplication implementation.
 # PROGRAM:
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Pradeep kumar G
+Register No. : 212223230150
 ```
 
 ```c
